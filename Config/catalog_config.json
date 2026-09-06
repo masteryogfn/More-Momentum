@@ -1,51 +1,13 @@
 {
-    "//": "BR Item Shop Config",
-    "daily1": {
-        "itemGrants": [
-            "AthenaBackpack:BID_486_WinterHunterMale"
-        ],
-        "price": 200
-    },
-    "daily2": {
-        "itemGrants": [
-            "AthenaBackpack:BID_365_MascotMilitiaCuddle"
-        ],
-        "price": 1200
-    },
-    "daily3": {
-        "itemGrants": [
-            "AthenaLoadingScreen:LSID_099_PirateTheme"
-        ],
-        "price": 500
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaDance:EID_Snap"
-        ],
-        "price": 500
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_196_TigerJaw"
-        ],
-        "price": 200
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_092_Sarong"
-        ],
-        "price": 200
-    },
-    "featured1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_759_Athena_Commando_F_RapVillainess"
-        ],
-        "price": 1200
-    },
-    "featured2": {
-        "itemGrants": [
-            "AthenaCharacter:CID_494_Athena_Commando_M_MechPilotShark"
-        ],
-        "price": 800
-    }
+    "//": "BATTLE ROYALE ITEM SHOP",
+    "daily1": {"itemGrants": ["AthenaBackpack:BID_486_WinterHunterMale"],"price": 0},
+    "daily2": {"itemGrants": ["AthenaBackpack:BID_365_MascotMilitiaCuddle"],"price": 0},
+    "daily3": {"itemGrants": ["AthenaLoadingScreen:LSID_099_PirateTheme"],"price": 0},
+    "daily4": {"itemGrants": ["AthenaDance:EID_Snap"],"price": 0},
+    "daily5": {"itemGrants": ["AthenaItemWrap:Wrap_196_TigerJaw"],"price": 0},
+    "daily6": {"itemGrants": ["AthenaItemWrap:Wrap_092_Sarong"],"price": 0},
+    "featured1": {"itemGrants": ["AthenaCharacter:CID_759_Athena_Commando_F_RapVillainess"],"price": 0},
+    "featured2": {"itemGrants": ["AthenaCharacter:CID_494_Athena_Commando_M_MechPilotShark"],"price": 0},
+    "featured3": {"itemGrants": ["AthenaDance:EID_Confused"],"price": 0},
+    "featured4": {"itemGrants": ["AthenaCharacter:CID_482_Athena_Commando_F_PizzaPit"],"price": 0}
 }

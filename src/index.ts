@@ -27,7 +27,7 @@ global.safetyEnv = Safety.env;
 global.accessTokens = [];
 global.refreshTokens = [];
 global.clientTokens = [];
-global.smartXMPP = false;
+global.smartXMPP = true; // dont fricking know what this is lol
 global.exchangeCodes = [];
 
 const app = express();
@@ -82,7 +82,7 @@ mongoose.set("strictQuery", true);
 mongoose
     .connect(Safety.env.MONGO_URI)
     .then(() => {
-        log.backend("Connected to MongoDB");
+        log.backend("Backend connected to MongoDB Successfully!");
     })
     .catch((error) => {
         console.error("Error connecting to MongoDB: ", error);
@@ -128,7 +128,7 @@ await importRoutes("routes");
 await importRoutes("api");
 
 app.listen(PORT, () => {
-    log.backend(`App started listening on port ${PORT}`);
+    log.backend(`Backend connected on Port: ${PORT}`);
     import("./xmpp/xmpp.js");
 }).on("error", async (err) => {
     if (err.message == "EADDRINUSE") {

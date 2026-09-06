@@ -9,10 +9,10 @@ import destr from "destr";
 
 export const data = new SlashCommandBuilder()
     .setName('addall')
-    .setDescription('Allows you to give a user all cosmetics. Note: This will reset all your lockers to default')
+    .setDescription('Give full locker to a user.')
     .addUserOption(option =>
         option.setName('user')
-            .setDescription('The user you want to give the cosmetic to')
+            .setDescription('The user whom you want to give Full Locker to')
             .setRequired(true))
     .setDefaultMemberPermissions(PermissionFlagsBits.ModerateMembers)
     .setDMPermission(false)

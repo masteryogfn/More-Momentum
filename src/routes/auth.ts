@@ -124,7 +124,7 @@ app.post("/account/api/oauth/token", async (req: any, res) => {
                     )
                     .setTimestamp()
                     .setFooter({
-                        text: 'Momentum',
+                        text: 'More-Momentum',
                         iconURL: 'https://cdn.discordapp.com/avatars/1107325625074733127/42e9c19a432cf6a9cb607a47813a31de.webp?size=512'
                     });
 
@@ -378,7 +378,7 @@ app.post("/auth/v1/oauth/token", async (req, res) => {
     res.json({
         access_token: "momentumaccesstoken",
         token_type: "bearer",
-        expires_at: "9999-12-31T23:59:59.999Z",
+        expires_at: "2027-12-31T23:59:59.999Z",
         features: [
             "AntiCheat",
             "Connect",
@@ -452,9 +452,9 @@ app.post("/epic/oauth/v2/token", async (req: any, res) => {
         refresh_token: "momentumrefreshtoken",
         id_token: "momentumidtoken",
         expires_in: 7200,
-        expires_at: "9999-12-31T23:59:59.999Z",
+        expires_at: "2027-12-31T23:59:59.999Z",
         refresh_expires_in: 28800,
-        refresh_expires_at: "9999-12-31T23:59:59.999Z",
+        refresh_expires_at: "2027-12-31T23:59:59.999Z",
         account_id: req.user.accountId,
         client_id: clientId,
         application_id: "momentumappid",

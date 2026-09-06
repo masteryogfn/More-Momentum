@@ -20,8 +20,8 @@ export const client: Client = new Client({
 	],
 	presence: {
 		activities: [{
-			name: 'Momentum',
-			type: ActivityType.Playing,
+			name: 'More Momentum backend',
+			type: ActivityType.Watching,
 		}],
 		status: 'online',
 	},

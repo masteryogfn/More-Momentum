@@ -2,7 +2,7 @@ import log from "./structs/log.js";
 
 export class Update {
     static async checkForUpdate(currentVersion: string) {
-        const packageJson = await fetch('https://raw.githubusercontent.com/Nexus-FN/Momentum/main/package.json').then(res => res.json());
+        const packageJson = await fetch('https://raw.githubusercontent.com/masteryogfn/More-Momentum/main/package.json').then(res => res.json());
 
         log.debug(`Latest version: ${packageJson.version}`);
         log.debug(`Current version: ${currentVersion}`);

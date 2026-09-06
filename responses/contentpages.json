@@ -9,8 +9,8 @@
             "_type": "CommonUI Simple Message",
             "message": {
                 "_type": "CommonUI Simple Message Base",
-                "title": "Momentum",
-                "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010"
+                "title": "More Momentum",
+                "body": "More momentum by Lawin, Zetax & M4STERY"
             }
         },
         "_activeDate": "2017-07-19T13:14:04.490Z",
@@ -214,7 +214,7 @@
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "DISCORD!",
                     "title": "Join my discord server!",
-                    "body": "https://discord.gg/KJ8UaHZ",
+                    "body": "https://discord.gg/f34Yv6VXv",
                     "spotlight": false
                 },
                 {
@@ -222,8 +222,8 @@
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
-                    "title": "Momentum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "More Momentum",
+                    "body": "More momentum by Lawin, Zetax & M4STERY",
                     "spotlight": false
                 }
             ]
@@ -1189,7 +1189,7 @@
                     "background_right_color": "DD091A",
                     "poster_back_image": "https://cdn.discordapp.com/attachments/927739901540188200/930882658546876506/lawin.jpg",
                     "_type": "Tournament Display Info",
-                    "pin_earned_text": "lawin is the winner!",
+                    "pin_earned_text": "M4STERY is the winner!",
                     "tournament_display_id": "s11_switchcup",
                     "highlight_color": "FFFFFF",
                     "schedule_info": "November 2nd & 3rd: 2pm - 5pm JST",
@@ -1225,7 +1225,7 @@
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "body": "More momentum by Lawin, Zetax & M4STERY",
                     "spotlight": true
                 }
             ]
@@ -1250,7 +1250,7 @@
                     "hidden": false,
                     "_type": "CommonUI Emergency Notice Base",
                     "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010"
+                    "body": "More momentum by Lawin, Zetax & M4STERY"
                 }
             ]
         },
@@ -5974,7 +5974,7 @@
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "DISCORD!",
                     "title": "Join my discord server!",
-                    "body": "https://discord.gg/KJ8UaHZ",
+                    "body": "https://discord.gg/f34Yv6VXv",
                     "spotlight": false
                 },
                 {
@@ -5983,7 +5983,7 @@
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
                     "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "body": "More momentum by Lawin, Zetax & M4STERY",
                     "spotlight": false
                 }
             ]
@@ -6038,7 +6038,7 @@
                     "bHidden": false,
                     "sectionId": "Featured",
                     "bShowTimer": true,
-                    "sectionDisplayName": "Item Shop",
+                    "sectionDisplayName": "More Momentum Item Shop",
                     "bShowIneligibleOffers": true
                 }
             ]
@@ -6059,7 +6059,7 @@
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "DISCORD!",
                     "title": "Join my discord server!",
-                    "body": "https://discord.gg/KJ8UaHZ",
+                    "body": "https://discord.gg/f34Yv6VXv",
                     "spotlight": false
                 },
                 {
@@ -6068,7 +6068,7 @@
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
                     "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "body": "More momentum by Lawin, Zetax & M4STERY",
                     "spotlight": false
                 }
             ]

@@ -66,7 +66,7 @@ export async function execute(interaction: ChatInputCommandInteraction) {
             ])
             .setThumbnail(icon)
             .setFooter({
-                text: "Momentum",
+                text: "More-Momentum",
                 iconURL: "https://cdn.discordapp.com/app-assets/432980957394370572/1084188429077725287.png",
             })
             .setTimestamp();

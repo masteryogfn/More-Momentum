@@ -1,7 +1,7 @@
 {
-  "name": "momentum",
+  "name": "more-momentum",
   "version": "1.8.1",
-  "description": "Momentum is a fortnite backend that features an account system and xmpp.",
+  "description": "more-momentum is a fortnite backend for begginers made by Lawin and Zetax and continued by M4STERY.",
   "main": "index.js",
   "type": "module",
   "dependencies": {
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nexus-FN/Momentum.git"
+    "url": "git+https://github.com/masteryogfn/More-Momentum.git"
   },
   "keywords": [
     "fortnite",
@@ -58,12 +58,12 @@
     "server",
     "v2"
   ],
-  "author": "Zetax",
+  "author": "Lawin, Zetax & M4STERY",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Nexus-FN/Momentum/issues"
+    "url": "https://github.com/masteryogfn/More-Momentum/issues"
   },
-  "homepage": "https://github.com/Nexus-FN/Momentum#readme",
+  "homepage": "https://github.com/masteryogfn/More-Momentum#readme",
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
     "@types/express": "^4.17.17",
