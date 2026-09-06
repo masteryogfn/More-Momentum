@@ -1,1 +1,2 @@
-@echo off && npm install && npm install -g typescript && tsc && (echo. && echo +---------------------------------------------------+ && echo ^|                Installation Finished!             ^| && echo +---------------------------------------------------+ && echo. ) && pause
+npm i
+pause
